@@ -1,0 +1,5 @@
+# Ignore folder bin
+consolegit/bin/
+
+# Ignore folder obj
+consolegit/obj/
