@@ -11,6 +11,7 @@ namespace consolegit
         static void Main(string[] args)
         {
             Console.WriteLine("Hello");
+            Console.WriteLine("Hello vill smitt and hello master");
         }
     }
 }
